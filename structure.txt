@@ -1,0 +1,24 @@
+ZH-Blogging-Insights
+│
+├── client
+│
+│   ├── assets
+│   ├── css
+│   ├── images
+│   ├── js
+│   └── pages
+│
+├── server
+│
+│   ├── config
+│   ├── controllers
+│   ├── middleware
+│   ├── models
+│   ├── public
+│   ├── routes
+│   ├── uploads
+│   └── utils
+│
+├── node_modules
+├── package.json
+└── package-lock.json
